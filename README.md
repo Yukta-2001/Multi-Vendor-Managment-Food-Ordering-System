@@ -70,6 +70,3 @@ For any questions or feedback, feel free to reach out to **Yukta Mahajan**.
 ---
 
 Thank you for checking out the **Food Ordering System**! We hope it provides a seamless and enjoyable experience for users and restaurant owners alike.
-```
-
-You can copy and paste this markdown content directly into the `README.md` file in your GitHub repository. It provides a clear structure with detailed information about the project, installation instructions, and contribution guidelines. Let me know if you'd like to modify anything further!
