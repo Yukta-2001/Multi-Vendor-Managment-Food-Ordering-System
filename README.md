@@ -1,6 +1,3 @@
-Here’s the README file for your GitHub project in markdown format that you can use directly in the editor:
-
-```markdown
 # Food Ordering System
 
 ## Introduction
